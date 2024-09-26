@@ -1,3 +1,8 @@
+Lorem ipsum
+Lorem ipsum
+Lorem ipsum
+Lorem ipsum
+Lorem ipsum
 # Hello! I'm Eggsy! Full Stack Developer
 
 ## About me
@@ -13,3 +18,5 @@ Lorem Ipsum
 - HTML
 - CSS
 - JS
+
+,,,
